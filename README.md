@@ -52,3 +52,4 @@ const CMP_COOKIES: Cookie[] = [
 	},
 ];
 ```
+.
